@@ -1,3 +1,3 @@
 # grid-draw
-An etch-a-sketch like drawing pad made as part of the Odin Project's curiculum.\n
+An etch-a-sketch like drawing pad made as part of the Odin Project's curiculum.
 www.theodinproject.com
